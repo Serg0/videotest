@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">videotest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name = "videos_list" >
+        <item >"https://www.youtube.com/watch?v=NeGe7lVrXb0"</item>
+        <item >"http://youtu.be/NeGe7lVrXb0"</item>
+        <item >"http://www.youtube.com/embed/NeGe7lVrXb0"</item>
+        <item >"http://vimeo.com/54321299"</item>
+        <item >"http://vimeo.com/m/54321299"</item>
+        <item >"http://vimeo.com/user1843451/httpsvimeocom54321299"</item>
+        <item >"http://player.vimeo.com/video/54321299"</item>
+        
+    </string-array>
+    
+    <string name="iframe"></string> 
+ </resources>
